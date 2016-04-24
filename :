@@ -1,0 +1,13 @@
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid blue;
+}
+
+.navigation-btn {
+    display: inline-block;
+    margin: 2vw;
+}
