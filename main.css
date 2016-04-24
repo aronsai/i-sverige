@@ -178,7 +178,7 @@ body {
     text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-device-width: 768px) {
     p {
         font-size: 14px;
     }
@@ -197,5 +197,8 @@ body {
     }
     .part {
         font-size: 100%;
+    }
+    .lead {
+        margin-left: 10px;
     }
 }
