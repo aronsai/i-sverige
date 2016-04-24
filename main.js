@@ -10,7 +10,7 @@ $(function(){
         partOffsets[item] = $("#"+item).offset().top;
     }
 
-    $(window).scroll(function(e) {
+    /*$(window).scroll(function(e) {
         var scroll = $(this).scrollTop();
 
         var offset = lastScroll - scroll;
@@ -26,7 +26,7 @@ $(function(){
         }
 
         lastScroll = scroll;
-    });
+    });*/
 
     var scroller = function(name) {
 

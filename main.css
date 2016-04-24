@@ -34,7 +34,7 @@ body {
     margin-right: 2vw;
     border-bottom: 4px solid transparent;
     opacity: 1;
-    font-size: 2vw;
+    font-size: 5vh;
     cursor: pointer;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 .school {
-    font-size: 2vw;
+    font-size: 4vh;
     margin-left: 2vw;
     margin-right: 2vw;
 }
@@ -82,10 +82,10 @@ body {
 
 .splash {
     font-family: Chasing;
-    margin-left: 25%;
-    text-align: left !important;
+    /*margin-left: 25%;*/
+    text-align: center !important;
     padding: 4vh;
-    font-size: 8vw;
+    font-size: 18vh;
     color: #0AA0D9;
 }
 
