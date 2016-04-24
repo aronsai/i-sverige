@@ -185,7 +185,10 @@ body {
     .school {
         font-size: 3vh;
     }
-    .tile, .splash {
+    .tile {
+        padding: 2vh;
+    }
+    .splash {
         padding: 2vh;
     }
 }
