@@ -183,7 +183,7 @@ body {
         font-size: 5vh;
     }
     .school {
-        font-size: 2.6vh;
+        font-size: 2.5vh;
     }
     .tile {
         padding: 2vh;
@@ -191,5 +191,8 @@ body {
     .splash {
         padding: 2vh;
         margin-top: -20px;
+    }
+    .part {
+        font-size: 1.5vh;
     }
 }
