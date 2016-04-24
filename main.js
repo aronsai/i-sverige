@@ -10,6 +10,7 @@ $(function(){
         partOffsets[item] = $("#"+item).offset().top;
     }
 
+    // Buggar i Safari till OS X
     /*$(window).scroll(function(e) {
         var scroll = $(this).scrollTop();
 
